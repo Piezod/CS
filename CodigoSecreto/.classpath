@@ -13,5 +13,9 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/JC/Desktop/Repositorio git/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JC/Desktop/Repositorio git/jackson-databind-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JC/Desktop/Repositorio git/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/JC/Desktop/Repositorio git/mysql-connector-java-5.0.8-bin.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
